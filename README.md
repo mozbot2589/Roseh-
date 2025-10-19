@@ -1,8 +1,8 @@
-# 🤖 Takeshi Bot
+# 🤖 ROSEH BOT
 
-![Takeshi Bot](./assets/images/takeshi-bot.png)
+![ROSEH BOT](./assets/images/takeshi-bot.png)
 
-[![Version](https://img.shields.io/badge/Vers%C3%A3o-6.4.2-blue)](https://github.com/guiireal/takeshi-bot)
+[![Version](https://img.shields.io/badge/Vers%C3%A3o-6.4.2-blue)](https://github.com/mozbot2589/Roseh-.git)
 
 > Base para bots de WhatsApp multifuncional com diversos comandos prontos.
 
@@ -20,7 +20,7 @@
 
 ## 📋 Sumário
 
-1. [Idiomas disponíveis](#-acesse-o-takeshi-bot-em-outros-idiomas)
+1. [Idiomas disponíveis](#-acesse-o-roseh-bot-em-outros-idiomas)
 2. [Atenção - suporte](#-atenção)
 3. [Sobre o projeto](#sobre-este-projeto)
 4. Instalação
@@ -94,13 +94,13 @@ cd /sdcard
 4 - Clone o repositório.
 
 ```sh
-git clone https://github.com/guiireal/takeshi-bot.git
+git clone do https://github.com/mozbot2589/Roseh-.git
 ```
 
 5 - Entre na pasta que foi clonada.
 
 ```sh
-cd takeshi-bot
+cd roseh-bot
 ```
 
 6 - Habilite permissões de leitura e escrita (faça apenas 1x esse passo).
